@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SOUQ/static/css/main.24e005cc.css",
+    "main.js": "/SOUQ/static/js/main.0b95d031.js",
+    "static/js/453.21d4b412.chunk.js": "/SOUQ/static/js/453.21d4b412.chunk.js",
+    "static/media/fa-solid-900.ttf": "/SOUQ/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/Side Image.png": "/SOUQ/static/media/Side Image.322a8f492b2e4869ee38.png",
+    "static/media/fa-brands-400.ttf": "/SOUQ/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/two-beautiful-trendy-young-african-ladies-posing-and-showing-off-their-shopping-bags-2BN90KA.jpg": "/SOUQ/static/media/two-beautiful-trendy-young-african-ladies-posing-and-showing-off-their-shopping-bags-2BN90KA.cfba71379b937f44d155.jpg",
+    "static/media/fa-solid-900.woff2": "/SOUQ/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/22f98b38-ccd9-4dbf-80c1-41d6ee983dc0-cover.png": "/SOUQ/static/media/22f98b38-ccd9-4dbf-80c1-41d6ee983dc0-cover.7f25e36c7ba0ccd688f7.png",
+    "static/media/fa-brands-400.woff2": "/SOUQ/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/SOUQ/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/png": "/SOUQ/static/media/a0e46499341f8c434c2cec58c358ef20.efd75ff94fec7ac457a3.png",
+    "static/media/1_kf1Q92T7pwsS_4vfPBmNCA.jpg": "/SOUQ/static/media/1_kf1Q92T7pwsS_4vfPBmNCA.1d1d07de5d2d0d7f71a6.jpg",
+    "static/media/fa-regular-400.woff2": "/SOUQ/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/SOUQ/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/google_logo-google_icongoogle-512.webp": "/SOUQ/static/media/google_logo-google_icongoogle-512.a05d721bb9bba483749f.webp",
+    "static/media/fa-v4compatibility.woff2": "/SOUQ/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "static/media/slick.svg": "/SOUQ/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SOUQ/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SOUQ/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SOUQ/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SOUQ/index.html",
+    "main.24e005cc.css.map": "/SOUQ/static/css/main.24e005cc.css.map",
+    "main.0b95d031.js.map": "/SOUQ/static/js/main.0b95d031.js.map",
+    "453.21d4b412.chunk.js.map": "/SOUQ/static/js/453.21d4b412.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e005cc.css",
+    "static/js/main.0b95d031.js"
+  ]
+}
