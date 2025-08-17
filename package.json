@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Hadary50.github.io/SOUQ",
   "name": "proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Hadary50.github.io/dummyjson.git",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -24,8 +24,8 @@
     "yup": "^1.4.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -50,6 +50,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   }
 }
