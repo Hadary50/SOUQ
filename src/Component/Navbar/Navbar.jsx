@@ -9,11 +9,21 @@ export default function Navbar() {
 
   return (
     <nav className="navbar navbar-expand-lg bg-white shadow-sm sticky-top">
-      <div className="container">
+      <div className="container d-flex align-items-center justify-content-between gap-3">
+
+        {/* Logo */}
         <Link className="navbar-brand fw-bold text-danger" to={"/"}>
-         Exsclusive
+          Exsclusive
         </Link>
 
+        {/* ✅ SearchBar دايمًا في النص وعلى نفس السطر */}
+        <div className="d-flex flex-grow-1 justify-content-center align-items-center">
+          <div className="w-100" style={{ maxWidth: '500px' }}>
+            <SearchBar />
+          </div>
+        </div>
+
+        {/* Navbar Toggle Button */}
         <button
           className="navbar-toggler border-0"
           type="button"
@@ -26,9 +36,9 @@ export default function Navbar() {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="collapse navbar-collapse" id="mainNav">
-          {/* Links */}
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0 gap-2">
+        {/* Links + Icons */}
+        <div className="collapse navbar-collapse justify-content-end" id="mainNav">
+          <ul className="navbar-nav mb-2 mb-lg-0 gap-3 align-items-center">
             <li className="nav-item">
               <Link
                 to="/"
@@ -63,21 +73,15 @@ export default function Navbar() {
             </li>
           </ul>
 
-          {/* Search */}
-     <div className="flex-grow-1 mx-3">
-  <SearchBar/>
-</div>
           {/* Icons */}
           <div className="d-flex align-items-center gap-3">
             <Link to="/wishList" className="position-relative text-decoration-none">
               <i className="fs-5 fa-regular fa-heart text-dark"></i>
-              {/* badge example */}
               <span
                 className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
                 style={{ fontSize: 10 }}
               >
                 3
-                <span className="visually-hidden">unread wishlist items</span>
               </span>
             </Link>
             <Link to="/cart" className="position-relative text-decoration-none">
@@ -87,7 +91,6 @@ export default function Navbar() {
                 style={{ fontSize: 10 }}
               >
                 2
-                <span className="visually-hidden">items in cart</span>
               </span>
             </Link>
           </div>
