@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/SOUQ/static/css/main.28640af8.css",
-    "main.js": "/SOUQ/static/js/main.98f7a976.js",
+    "main.css": "/SOUQ/static/css/main.27327e96.css",
+    "main.js": "/SOUQ/static/js/main.1c89d9e4.js",
     "static/js/453.21d4b412.chunk.js": "/SOUQ/static/js/453.21d4b412.chunk.js",
     "static/media/fa-solid-900.ttf": "/SOUQ/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
     "static/media/Side Image.png": "/SOUQ/static/media/Side Image.322a8f492b2e4869ee38.png",
     "static/media/fa-brands-400.ttf": "/SOUQ/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
     "static/media/two-beautiful-trendy-young-african-ladies-posing-and-showing-off-their-shopping-bags-2BN90KA.jpg": "/SOUQ/static/media/two-beautiful-trendy-young-african-ladies-posing-and-showing-off-their-shopping-bags-2BN90KA.cfba71379b937f44d155.jpg",
     "static/media/fa-solid-900.woff2": "/SOUQ/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
-    "static/media/22f98b38-ccd9-4dbf-80c1-41d6ee983dc0-cover.png": "/SOUQ/static/media/22f98b38-ccd9-4dbf-80c1-41d6ee983dc0-cover.7f25e36c7ba0ccd688f7.png",
     "static/media/fa-brands-400.woff2": "/SOUQ/static/media/fa-brands-400.fdbb558523a380307689.woff2",
     "static/media/fa-regular-400.ttf": "/SOUQ/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
     "static/media/png": "/SOUQ/static/media/a0e46499341f8c434c2cec58c358ef20.efd75ff94fec7ac457a3.png",
@@ -22,12 +21,12 @@
     "static/media/slick.ttf": "/SOUQ/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/SOUQ/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SOUQ/index.html",
-    "main.28640af8.css.map": "/SOUQ/static/css/main.28640af8.css.map",
-    "main.98f7a976.js.map": "/SOUQ/static/js/main.98f7a976.js.map",
+    "main.27327e96.css.map": "/SOUQ/static/css/main.27327e96.css.map",
+    "main.1c89d9e4.js.map": "/SOUQ/static/js/main.1c89d9e4.js.map",
     "453.21d4b412.chunk.js.map": "/SOUQ/static/js/453.21d4b412.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28640af8.css",
-    "static/js/main.98f7a976.js"
+    "static/css/main.27327e96.css",
+    "static/js/main.1c89d9e4.js"
   ]
 }
